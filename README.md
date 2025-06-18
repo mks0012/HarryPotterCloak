@@ -2,6 +2,14 @@
 
 # Harry-Potters-Invisible-cloak
 Image masking basic techniques
+A fun computer vision project that simulates the invisibility cloak effect using OpenCV. The app detects a specific cloak color in the video feed and replaces it with the background in real-time, creating the illusion of invisibility.
+
+Tech Used: Python, OpenCV, NumPy
+Key Concepts: Color masking, HSV color space, real-time video processing, image blending.
+
+ Adjustable cloak color
+ Real-time invisibility effect
+ Great intro to OpenCV + computer vision!
 
 Tired of scratching your head through hectic reasearch papers? Common let's make something interesting with the help of basic computer vision knowledge using opencv library.
 
